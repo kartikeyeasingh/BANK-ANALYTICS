@@ -1,4 +1,5 @@
 # BANK ANALYTICS
-![Screenshot (3)](https://github.com/user-attachments/assets/ac019e3b-620c-4cfd-873f-51c4de700759)
-![Screenshot (4)](https://github.com/user-attachments/assets/2ce6314d-e4a6-4515-841f-52e27dcacb26)
-![Screenshot (5)](https://github.com/user-attachments/assets/300b2f06-54f9-4974-b95c-056f8f85249a)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/766394da-d5f9-45c5-9be8-e303c55c11eb)
+![Screenshot (4)](https://github.com/user-attachments/assets/e01aaac8-7c2a-457c-be0f-14460e410c59)
+![Screenshot (5)](https://github.com/user-attachments/assets/1b02f0b8-4dd6-4bc5-8f9b-f7e72350dea3)
